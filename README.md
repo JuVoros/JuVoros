@@ -1,31 +1,32 @@
 # 👋 Hello! I'm Julian Voros
 
 🎮 Game Developer | 💻 Software Engineer | 🎓 CS Graduate  
-🔭 Currently working on: Procedural dungeon generation and AI pathfinding  
-🌱 Learning: Full stack web development & game networking  
-⚡ Fun Fact: I used to debug code before I could parallel park
+🌱 Learning: AI Development | Game Development | Machine Learning
+🛠️ C++ | C# | Unity | Unreal | JavaScript
 
-## 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
-![Unreal](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unreal-engine)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
+> “Code often, debug with patience, and remember... pandas are bad at dating.”
+>
+> ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianVoros&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianVoros&layout=compact&theme=radical)
+
+## 🧠 Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
 ## 📈 GitHub Stats
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianVoros&show_icons=true&theme=tokyonight)
-<!--
-**JuVoros/JuVoros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ／＞　 フ
+  | 　_　_| 
+／` ミ＿xノ 
+／　　　　 |
+(　 ヽ＿ヽ_)__)
+＼二)

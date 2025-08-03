@@ -4,12 +4,11 @@
 🌱 Learning: AI Development | Game Development | Machine Learning
 🛠️ C++ | C# | Unity | Unreal | JavaScript
 
-> “Code often, debug with patience, and remember... pandas are bad at dating.”
+> “Code often, debug with patience, and remember... ”
 >
-> ## 📊 GitHub Stats
+> ## 📊 GitHub Stats<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuVoros&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianVoros&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianVoros&layout=compact&theme=radical)
 
 ## 🧠 Technologies & Tools
 
@@ -21,12 +20,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-## 📈 GitHub Stats
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianVoros&show_icons=true&theme=tokyonight)
-
-  ／＞　 フ
-  | 　_　_| 
-／` ミ＿xノ 
-／　　　　 |
-(　 ヽ＿ヽ_)__)
-＼二)
